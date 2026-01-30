@@ -1,0 +1,5 @@
+git hash-object
+git cat-file
+git fsck
+git gc
+git verify-pack

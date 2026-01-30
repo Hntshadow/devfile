@@ -1,0 +1,7 @@
+git branch                    # List branches
+git branch <name>             # Create branch
+git branch -d <name>          # Delete branch
+git branch -D <name>          # Force delete branch
+git switch <branch>           # Switch branch (modern)
+git switch -c <branch>        # Create + switch
+git checkout <branch>         # Old switch command

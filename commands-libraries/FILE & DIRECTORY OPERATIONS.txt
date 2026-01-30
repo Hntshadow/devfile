@@ -1,0 +1,6 @@
+git rm <file>                 # Delete file and track it
+git rm --cached <file>        # Stop tracking but keep file
+git mv old new                # Rename/move file
+git restore <file>            # Discard file changes
+git restore --staged <file>   # Unstage file
+git checkout -- <file>        # OLD way to discard changes

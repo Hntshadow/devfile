@@ -1,0 +1,9 @@
+git remote                    # List remotes
+git remote -v                 # Show remote URLs
+git remote add origin <url>   # Add remote
+git remote remove origin      # Remove remote
+git fetch                     # Download changes only
+git pull                      # Fetch + merge
+git push                      # Push to remote
+git push -u origin main       # First push
+git push --force              # Force push (DANGER)

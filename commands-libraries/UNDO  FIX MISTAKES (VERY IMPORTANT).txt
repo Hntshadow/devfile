@@ -1,0 +1,5 @@
+git reset --soft HEAD~1       # Undo commit, keep staged
+git reset --mixed HEAD~1      # Undo commit, unstage
+git reset --hard HEAD~1       # Destroy commit + changes (DANGER)
+git revert <commit>           # Safe undo via new commit
+git commit --amend            # Edit last commit

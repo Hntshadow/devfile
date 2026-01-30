@@ -1,0 +1,6 @@
+git check-ignore -v <file>
+git rm -r --cached .
+git add .
+
+
+(Used when .gitignore was added late.)

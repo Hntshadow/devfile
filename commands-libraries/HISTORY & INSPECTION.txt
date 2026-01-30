@@ -1,0 +1,5 @@
+git show <commit>             # Show commit details
+git blame <file>              # Line-by-line author
+git log --graph --all         # Visual history
+git shortlog                  # Author summary
+git reflog                    # EVERYTHING Git remembers

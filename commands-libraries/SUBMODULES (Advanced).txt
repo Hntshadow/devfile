@@ -1,0 +1,4 @@
+git submodule add <repo>              # Add submodule
+git submodule init                    # Initialize
+git submodule update                  # Update submodules
+git submodule update --remote         # Pull latest

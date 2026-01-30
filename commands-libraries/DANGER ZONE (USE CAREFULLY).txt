@@ -1,0 +1,6 @@
+git reset --hard
+git clean -fd                 # Delete untracked files
+git push --force
+git rebase --onto
+git filter-branch
+git gc                        # Garbage collect

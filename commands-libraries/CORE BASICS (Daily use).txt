@@ -1,0 +1,10 @@
+git init                # Initialize a repo
+git status              # Show repo state (MOST USED)
+git add <file>          # Stage file
+git add .               # Stage everything
+git add -u              # Stage tracked changes (incl deletions)
+git commit -m "msg"     # Commit staged changes
+git log                 # Full commit history
+git log --oneline       # Compact history
+git diff                # Unstaged changes
+git diff --staged       # Staged changes

@@ -1,0 +1,5 @@
+git diff branch1 branch2              # Compare branches
+git diff commit1 commit2              # Compare commits
+git diff HEAD~1                       # Compare with previous commit
+git diff --name-only                  # Changed file names
+s

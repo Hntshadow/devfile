@@ -1,0 +1,6 @@
+git stash                     # Save changes temporarily
+git stash pop                 # Restore + delete stash
+git stash apply               # Restore without deleting
+git stash list                # Show stashes
+git stash drop                # Delete stash
+git stash clear               # Delete all stashes

@@ -1,0 +1,6 @@
+git merge <branch>            # Merge branch into current
+git merge --abort             # Abort failed merge
+git rebase <branch>           # Rebase current branch
+git rebase --abort            # Cancel rebase
+git rebase --continue         # Continue rebase
+git rebase -i HEAD~n          # Interactive rebase

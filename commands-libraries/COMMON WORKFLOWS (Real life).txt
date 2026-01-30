@@ -1,0 +1,16 @@
+Daily
+git pull
+git status
+git add .
+git commit -m "message"
+git push
+
+
+Feature workflow
+git switch -c feature-x
+# work
+git add .
+git commit -m "feature"
+git switch main
+git merge feature-x
+git push
