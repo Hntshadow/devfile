@@ -6,4 +6,7 @@ _for testing and information collection_
 
 
 
+### YouTube link to learn markdown [click](https://www.youtube.com/watch?v=_PPWWRV6gbA)
+### Blog link to learn markdown [click](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/)
+
 
