@@ -1,3 +1,9 @@
-This is a dev file 
-basically a dev envoriment
-just to test wheather the files add are present or not
+# DEVFILE
+
+### THIS IS A DEV FILE TO TEST THE FILES AND PROJECTS BEFOREHAND
+
+_for testing and information collection_
+
+
+
+
